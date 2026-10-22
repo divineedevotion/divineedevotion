@@ -41,5 +41,3 @@
 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; $\color{#a52949}{\textsf{weird or}}$ $\color{#ad3151}{\textsf{annoying}}$ <br>
 </p>
 <img align="center" img src="https://github.com/user-attachments/assets/1449987a-14d5-4ef3-b222-736302563fa8" alt="banner1" width="1000" height="400" />
-<!--
-**divineedevotion/divineedevotion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
